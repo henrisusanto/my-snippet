@@ -1,0 +1,9 @@
+{
+    "name": "henrisusanto/my-snippet",
+    "require": {},
+	  "autoload": {
+		    "psr-4": {
+		      "Gendon\\":"src/"
+	    }
+  }
+}
